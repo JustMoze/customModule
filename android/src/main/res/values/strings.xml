@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ratings">9.8</string>
+    <string name="action">Action</string>
+    <string name="hello">Hello, I am a TextView</string>
+    <string name="btn">Hello, I am a Button</string>
+</resources>
