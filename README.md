@@ -9,12 +9,16 @@ A recycler view with great performance.
 Data format -> List of objects
 
 object 👇
+...
+
 {
   _id: string,
   rating: number,
   coverImage: string,
   genre: string
 }
+
+...
 
 ## Getting started
 
