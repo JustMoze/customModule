@@ -9,7 +9,7 @@ A recycler view with great performance.
 Data format -> List of objects
 
 object 👇
-...
+```javascript
 
 {
   _id: string,
@@ -18,7 +18,7 @@ object 👇
   genre: string
 }
 
-...
+```
 
 ## Getting started
 
