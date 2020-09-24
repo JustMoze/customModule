@@ -4,7 +4,7 @@
 A recycler view with great performance.
 
 
-![Alt text](https://github.com/JustMoze/customModule/blob/master/recycler.png?raw=true)
+![Alt text](https://github.com/JustMoze/customModule/blob/master/recyclerView.png?raw=true)
 
 Data format -> List of objects
 
